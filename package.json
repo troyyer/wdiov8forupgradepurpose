@@ -4,7 +4,8 @@
   "description": "sample with v8 of webdriverio",
   "scripts": {
       "wdio": "wdio run ./wdio.conf.js",
-      "wdiowBSuser": "wdio run ./wdiobs.conf.js"
+      "wdiowBSuser": "wdio run ./wdiobs.conf.js",
+      "wdiowBSservice": "wdio run ./wdiobsserv.conf.js"
   },
   "keywords": [
     "wdio",
